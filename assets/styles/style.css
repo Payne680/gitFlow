@@ -12,7 +12,7 @@ body {
 * {
   box-sizing: border-box;
 }
-  
+
 button {
   background-color: #222;
   color: #fff;
@@ -23,7 +23,7 @@ button {
   min-width: 300px;
   border-radius: 80px;
 }
-  
+
 .btn1 {
   background-color: #c81b1b;
   color: #000;
@@ -36,20 +36,20 @@ button {
   background-color: #525b38;
   color: #fff;
 }
-  
+
 button:disabled {
   opacity: 0.3;
   cursor: not-allowed;
 }
-  
+
 label {
   font-weight: 500;
   color: brown;
   font-size: 16px;
 }
-  
+
 p {
-  border: 1px solid #222222;
+  border: 1px solid #222;
   padding: 20px;
   text-align: center;
   min-width: 300px;
@@ -64,4 +64,3 @@ p {
   margin: 200px;
   gap: 3rem;
 }
-  
